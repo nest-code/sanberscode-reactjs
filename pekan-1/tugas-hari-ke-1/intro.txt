@@ -1,0 +1,7 @@
+Data Peserta Sanbercode Bootcamp RectJS
+
+1. Nama                           : Ernesto Andre Yulian Manurung
+2. Email                          : ernestoandreyulian@gmail.com 
+3. Sistem Operasi yang digunakan  : Windows 10
+4. Akun GitHub                    : nest-code
+5. Akun Telegram                  : @ernestomanurung

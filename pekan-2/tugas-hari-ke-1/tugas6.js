@@ -9,6 +9,7 @@ var objDaftarPeserta = {
     tahunLahir : 1992
 }
 console.log(objDaftarPeserta)
+console.log(arrayDaftarPeserta)
 
  
 // Soal 2
